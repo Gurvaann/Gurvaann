@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **Gurvaann/Gurvaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +19,6 @@ Here are some ideas to get you started:
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
